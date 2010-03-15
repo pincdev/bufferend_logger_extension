@@ -1,0 +1,6 @@
+BufferedLoggerExtension
+=======================
+
+Basic rails logging has no timestamps. This adds them.
+
+Copyright (c) 2009 [name of plugin creator], released under the MIT license
